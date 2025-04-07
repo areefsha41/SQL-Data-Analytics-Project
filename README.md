@@ -1,2 +1,5 @@
 # SQL-Data-Analytics-Project
 This repository features a curated set of SQL scripts tailored for data exploration, analysis, and reporting tasks.
+The collection includes a variety of analytical techniques, including database investigation, key metrics calculation, time-series analysis, cumulative trends, segmentation, and more. Each script is crafted to assist data analysts and business intelligence professionals in efficiently analyzing and segmenting data within relational databases. Every query is centered around a specific analytical goal and reflects best practices in SQL.
+
+This project showcases Exploratory Data Analysis (EDA) performed entirely using SQL, highlighting the power and flexibility of SQL in uncovering patterns, trends, and insights directly from raw data. By leveraging advanced SQL techniques, this project demonstrates how to clean, aggregate, and interpret complex datasets without relying on external tools. It’s a great example of how data analysts can perform in-depth analysis and generate meaningful business insights using only SQL within a relational database environment.
